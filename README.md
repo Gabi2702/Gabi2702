@@ -1,5 +1,4 @@
 <h1 align="left">Olá! Eu sou o Gabriel Antoszczyszyn</h1>
-<h3 align="left">Um dev Backend do Brasil!</h3>
 
 - 🎓 Cursando Ciência da Computação **6º periodo**
 
