@@ -1,4 +1,5 @@
 <h1 align="left">Olá! Eu sou o Gabriel Antoszczyszyn</h1>
+
 - 💼 Desenvolvedor Backend | Desktop | Python
 
 - 🎓 Cursando Engenharia de Software **6º periodo**
