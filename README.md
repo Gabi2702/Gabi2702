@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Eu sou o Gabriel Antoszczyszyn</h1>
-
-- 🎓 Cursando Ciência da Computação **6º periodo**
+- 💼 Desenvolvedor Backend | Desktop | Python
+- 🎓 Cursando Engenharia de Software **6º periodo**
 
 - 📚 Aprendendo **Inteligência Artificial, Machine Learning**
 <div align="left">
