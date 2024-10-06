@@ -1,8 +1,8 @@
 <h1 align="left">Olá! Eu sou o Gabriel Antoszczyszyn</h1>
 
-- 💼 Desenvolvedor Backend | Desktop | Python
+- 💼 Desenvolvedor FullStack | Java | React
 
-- 🎓 Cursando Engenharia de Software **6º periodo**
+- 🎓 Engenheiro de Software
 
 - 📚 Aprendendo **Inteligência Artificial, Machine Learning**
 <div align="left">
